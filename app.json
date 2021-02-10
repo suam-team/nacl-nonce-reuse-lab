@@ -1,0 +1,7 @@
+{
+    "name": "NACL Nonce Reuse Lab",
+    "description": "The hacking lab for nonce-reuse attack in NACL SecretBox (xSalsa20 and Poly1305)",
+    "repository": "https://github.com/suam-team/nacl-nonce-reuse-lab",
+    "logo": "https://suam.wtf/favicon-32x32.png",
+    "keywords": ["hacking", "lab", "crypto"]
+}

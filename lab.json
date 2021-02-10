@@ -1,0 +1,7 @@
+{
+    "name": "NACL Nonce Reuse Lab",
+    "category": "Crypto",
+    "author": "bongtrop",
+    "flag": "5a1cfad7134a29e825a401d33d34040b,22664c81c225356313fa44713d898c47,6ef96156b3a7d997df4d83969ee1c89d,665161e6d750e58a2c4957f6578379718b357873b28bdbea4f4b7b57d6e477a1fd39189632f13fb4187f5063319c5dd33eb65fa969985a16c928d2ce,a9f8782888f511bf230e1fa055e1c697",
+    "detail": "The hacking lab for nonce-reuse attack in NACL SecretBox (xSalsa20 and Poly1305)"
+}
